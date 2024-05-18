@@ -1,7 +1,7 @@
 Souls-like Unity Game
 Description:
 This is an open-source Souls-like game developed in Unity. In this game, players will experience challenging combat, intricate level design, and a dark, atmospheric world reminiscent of the Souls series.
-
+UnityEdittor Verions 2022.1.23f1
 Features:
 Challenging Combat: Engage in intense, skill-based combat against challenging enemies.
 Exploration: Explore intricate levels filled with hidden paths, secrets, and shortcuts.
@@ -9,7 +9,7 @@ Boss Battles: Encounter formidable bosses that test your skills and strategies.
 Atmospheric World: Immerse yourself in a dark and atmospheric world with rich lore and storytelling.
 Character Progression: Customize your character's abilities, equipment, and playstyle as you progress through the game.
 Installation:
-Clone the repository: git clone [repository URL]
+Clone the repository: git clone https://github.com/NeutralizeGameDev/OpenSourceGame
 Open the project folder in Unity.
 Navigate to Assets/Scenes and open the main scene.
 Press the Play button in the Unity Editor to start the game.
